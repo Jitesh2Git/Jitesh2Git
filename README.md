@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Appwrite-%2300A9F4.svg?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-  <img src="https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
 ###
