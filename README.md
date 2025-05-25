@@ -4,12 +4,12 @@
 <br>
 
 <div align="left" style="display: flex; justify-content: space-between;">
-  <ul>
-    <li>📚 I’m currently pursuing a Bachelor's Degree in Information Technology.</li>
-    <li>📚 I’m currently learning Web Development and other programming languages.</li>
-    <li>📫 How to reach me: <a href="mailto:jiteshmali2003rv@gmail.com">jiteshmali2003rv@gmail.com</a></li>
-    <li>⚡ In my free time, I play chess, listen to music, and watch YouTube videos about different technologies and updates.</li>
-  </ul>
+<ul>
+  <li>🎓 Completed my Bachelor's in IT — perfect timing, now that AI is out here applying for the same jobs as me 😭🤖.</li>  
+  <li>📚 I’m currently focused on learning and building projects in Web Development and Software Development.</li>
+  <li>📫 How to reach me: <a href="mailto:jiteshmali2003rv@gmail.com">jiteshmali2003rv@gmail.com</a></li>
+  <li>⚡ In my free time, I enjoy listening to music and watching YouTube videos about different technologies and updates.</li>
+</ul>
 </div>
 
 <br>
