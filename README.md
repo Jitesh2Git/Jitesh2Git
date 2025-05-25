@@ -5,7 +5,7 @@
 
 <div align="left" style="display: flex; justify-content: space-between;">
 <ul>
-  <li>🎓 Completed my Bachelor's in IT — perfect timing, now that AI is out here applying for the same jobs as me 😭🤖.</li>  
+  <li>🎓 Completed my Bachelor's in IT in 2025 — perfect timing too, right when AI decided it wants my job. At least I earned my burnout the old-fashioned way. 🤖🔥</li>  
   <li>📚 I’m currently focused on learning and building projects in Web Development and Software Development.</li>
   <li>📫 How to reach me: <a href="mailto:jiteshmali2003rv@gmail.com">jiteshmali2003rv@gmail.com</a></li>
   <li>⚡ In my free time, I enjoy listening to music and watching YouTube videos about different technologies and updates.</li>
