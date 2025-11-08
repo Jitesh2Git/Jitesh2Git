@@ -9,7 +9,7 @@
 
 <div align="left" style="display: flex; justify-content: space-between;">
 <ul>
-  <li>🎓 B.Tech in Information Technology (2025).</li>
+<li>🎓 Completed B.Tech in Information Technology (2025).</li>
   <li>💻 I build full-stack web applications using React, Next.js, Node.js and other modern web technologies.</li>
   <li>📫 Reach me at: <a href="mailto:jiteshmali2003rv@gmail.com">jiteshmali2003rv@gmail.com</a></li>
   <li>🎨 Interested in creating clean interfaces and smooth user experiences.</li>
