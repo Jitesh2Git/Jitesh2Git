@@ -7,13 +7,13 @@
   <img height="30" alt="linkedin" src="https://github.com/user-attachments/assets/a7f9379f-06f3-45bf-9a51-9adce06602c7" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Jitesh_Mali/" target="_blank">
-  <img height="30" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/11tiPcxOx3IfgxD8CF_6dxHDsjNjnxCMS/view?usp=sharing" target="_blank">
-  <img height="30" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+  <img height="30" alt="LeetCode_Logo_1" src="https://github.com/user-attachments/assets/51898946-8e0a-4e30-82ea-906a0f2c4315" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:jiteshmali2003rv@gmail.com" target="_blank">
-  <img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img height="30" alt="66591-google-contacts-by-inbox-logo-icon-email" src="https://github.com/user-attachments/assets/66995314-a14b-4563-8c35-74bf048b6720" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/11tiPcxOx3IfgxD8CF_6dxHDsjNjnxCMS/view?usp=sharing" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 </a>
 </p>
 
