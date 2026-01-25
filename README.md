@@ -15,13 +15,24 @@
 </a>
 </p>
 
+<table>
+  <tr>
+    <td width="70%" valign="top">
+
 ### <img src="https://github.com/user-attachments/assets/b67ef803-2b53-4d24-871c-b5f4c45ab79a" width="45" /> About Me:
 
-- 💼 I'm a Frontend Developer building CRM & EHR systems at **Baynine Ventures** <img src="https://github.com/user-attachments/assets/2939727d-e503-4a8a-8402-97184efba771" width="40">
+- 💼 Working as a Frontend Developer at **Baynine Ventures**, building enterprise CRM & EHR solutions
 - 💻 I use daily: **.js**, **.vue**, **.ts**, **.jsx**
 - 🏗️ Built Full-stack projects with React, Next.js, Node.js & MongoDB
 - 🎓 Fresh B.Tech IT graduate (2025) from Pillai College of Engineering
 - ⚡ Fun fact: I can successfully center a div with CSS (and I know when to use flexbox vs grid)
+
+</td>
+    <td width="30%" valign="center" align="center">
+      <img width="200" alt="im_a_developer_ralph" src="https://github.com/user-attachments/assets/b9d0586f-109c-4e7a-898b-acc10726ceb8" />
+    </td>
+  </tr>
+</table>
 
 ## Stack
 ```
