@@ -1,94 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jitesh</h1>
-<h3 align="center">Full-stack developer from India 🇮🇳</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p align="center">
-  Clean UI • Smooth UX • Maintainable Code
+<p align="left">
+<a href="https://linkedin.com/in/jitesh-mali" target="_blank">
+  <img height="30" alt="linkedin" src="https://github.com/user-attachments/assets/a7f9379f-06f3-45bf-9a51-9adce06602c7" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Jitesh_Mali/" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/11tiPcxOx3IfgxD8CF_6dxHDsjNjnxCMS/view?usp=sharing" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:jiteshmali2003rv@gmail.com" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
-<br>
+### <img src="https://github.com/user-attachments/assets/b67ef803-2b53-4d24-871c-b5f4c45ab79a" width="45" /> About Me:
 
-<div align="left" style="display: flex; justify-content: space-between;">
-<ul>
-<li>🎓 Completed B.Tech in Information Technology (2025).</li>
-  <li>💻 I build full-stack web applications using React, Next.js, Node.js and other modern web technologies.</li>
-  <li>📫 Reach me at: <a href="mailto:jiteshmali2003rv@gmail.com">jiteshmali2003rv@gmail.com</a></li>
-  <li>🎨 Interested in creating clean interfaces and smooth user experiences.</li>
-</ul>
-</div>
+- 💼 I'm a Frontend Developer building CRM & EHR systems at **Baynine Ventures** <img src="https://github.com/user-attachments/assets/2939727d-e503-4a8a-8402-97184efba771" width="40">
+- 💻 I use daily: **.js**, **.vue**, **.ts**, **.jsx**
+- 🏗️ Built Full-stack projects with React, Next.js, Node.js & MongoDB
+- 🎓 Fresh B.Tech IT graduate (2025) from Pillai College of Engineering
+- ⚡ Fun fact: I can successfully center a div with CSS (and I know when to use flexbox vs grid)
 
-<br>
-
-<h1 align="left">💻 Technologies and Tools</h1>
-
-<div align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-%23C0C0C0.svg?style=for-the-badge&logo=framer&logoColor=black" alt="Framer Motion" />
-
-  <!-- State & Backend -->
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Supabase-%2300C4B3.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Appwrite-%2300A9F4.svg?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-  <img src="https://img.shields.io/badge/Sanity.io-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity.io" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Clerk-3A00E6.svg?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
-  <img src="https://img.shields.io/badge/Stripe-%230055FF.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jitesh2Git/Jitesh2Git/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jitesh2Git/Jitesh2Git/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Jitesh2Git/Jitesh2Git/output/github-snake.svg" />
-</picture>
-
-<h1 align="left">🔥 My Stats</h2>
-
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <h3 align="center"><strong>GɪᴛHᴜʙ Sᴛᴀᴛs</strong></h3>
-                <div align="center">
-                    <img src="https://github-readme-stats.vercel.app/api?username=Jitesh2Git&show_icons=true&theme=tokyonight" alt="Github stats">
-                </div>
-            </td>
-            <td>
-                <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-                <div align="center">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh2Git&theme=tokyonight" alt="Top Langs">
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-                <div align="center">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitesh2Git&theme=tokyonight" alt="GitHub Streak">
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <h3 align="center"><strong>Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</strong></h3>
-                <div align="center">
-                    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitesh2Git&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
-                </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
+## Stack
+```
+Frontend    React • Next.js • Vue.js • TypeScript • Redux • Tailwind CSS
+Backend     Node.js • Express.js • Frappe/ERPNext
+Database    MongoDB • Supabase • Firebase
+Tools       Git • Prisma • Postman
+```
