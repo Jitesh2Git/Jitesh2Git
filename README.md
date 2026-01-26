@@ -20,7 +20,7 @@
 ### <img src="https://github.com/user-attachments/assets/b67ef803-2b53-4d24-871c-b5f4c45ab79a" width="45" /> About Me:
 
 - 💼 Working as a Frontend Developer at **Baynine Ventures**, building enterprise CRM & EHR solutions
-- 💻 I use daily: **.js**, **.vue**, **.ts**, **.jsx**
+- 💻 I use daily: **.js**, **.ts**, **.jsx**, **.tsx**, **.vue**
 - 🏗️ Built Full-stack projects with React, Next.js, Node.js & MongoDB
 - 🎓 Fresh B.Tech IT graduate (2025) from Pillai College of Engineering
 - ⚡ Fun fact: I can successfully center a div with CSS (and I know when to use flexbox vs grid)
